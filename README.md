@@ -1,5 +1,5 @@
 # Gitter
-Gitter is a bit-operated, grid-based drawing program, which uses simple shapes with the option to add 2 colors within each shape.
+Gitter is a 4 bit-operated, grid-based drawing program, which uses simple shapes with the option to add 2 colors within each shape.
 ## How it works
 1. Select Shape
    
