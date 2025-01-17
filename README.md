@@ -18,9 +18,7 @@ By using command lines in the order listed below, users can place specific shape
 ## Example 
 The command below:
 
-0111         0110        1000         1001
-
-(shape)   (Color A)   (Color B)   (Grid Space)
+0111 0110 1000 1001
 
 Results in the following:
 ![example](https://github.com/user-attachments/assets/476bfb64-1b94-46dc-9e1e-4f0456e5fe67)
