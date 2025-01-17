@@ -19,6 +19,7 @@ By using command lines in the order listed below, users can place specific shape
 The command below:
 
 0111         0110        1000         1001
+
 (shape)   (Color A)   (Color B)   (Grid Space)
 
 Results in the following:
