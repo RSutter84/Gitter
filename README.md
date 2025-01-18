@@ -28,5 +28,8 @@ The command below:
 Results in the following:
 ![example](https://github.com/user-attachments/assets/476bfb64-1b94-46dc-9e1e-4f0456e5fe67)
 
+# Your Challenge
+Use the provided tools to draw something on the grid that resembles a house!
+
 ## Tip
 If you want to create a grid space that has one, solid color - select any shape and choose the same color for A and B.
